@@ -15,7 +15,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 
 # Add Jupyter kernel
-python -m ipykernel install --user --name=.shakespeare_venv --display-name "Python (.Radar_venv)"
+python -m ipykernel install --user --name=.shakespeare_venv --display-name "Python (.shakespeare_venv)"
 
 #nbstripout --install
 
