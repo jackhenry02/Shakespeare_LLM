@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+ipykernel
+jupyter
+pandas
+torch
+requests
